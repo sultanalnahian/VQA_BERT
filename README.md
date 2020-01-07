@@ -1,3 +1,1 @@
-# VQA_BERT
-
-# Visual Question Answering Using BERT
+# VQA_BERT (Visual Question Answering Using BERT)
